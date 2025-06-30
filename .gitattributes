@@ -1,0 +1,5 @@
+# Auto detect text files and normalize line endings
+* text=auto
+
+# Handle Jupyter Notebooks
+*.ipynb linguist-language=Jupyter Notebook
