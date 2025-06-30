@@ -51,16 +51,20 @@ Los datos provienen de una encuesta pública sobre salud mental en empresas, dif
 ```
 ML_Mental_Health_in_the_Workplace/
 │
-├── src/                  # Directorio dónde se alojan las carpetas auxiliares
-│    ├── data_sample/     # Dataset con las respuestas a la encuesta
-│    ├── img/             # Imágenes incluidas en la presentación
-│    ├── models/          # Modelos creados a lo largo del notebook
-│    ├── notebooks/       # Notebooks de desarrollo y pruebas
-│    └── utils/           # Librerías auxiliares utilizadas
+├── src/ # Directorio dónde se alojan las carpetas auxiliares
+│    ├── data_sample/ # Dataset con las respuestas a la encuesta
+│    ├── img/ # Imágenes incluidas en la presentación
+│    ├── models/ # Modelos creados a lo largo del notebook
+│    ├── notebooks/ # Notebooks de desarrollo y pruebas
+│    └── utils/ # Librerías auxiliares utilizadas
 │
-├── main.ipynb            # Notebook final del proyecto
-├── presentacion.pdf      # Presentación de apoyo para la exposición del proyecto
-└── README.md             # README resumen del proyecto
+├── .gitattributes # Configuración de atributos del repositorio
+├── .gitignore # Ignora archivos y carpetas innecesarias
+├── LICENSE # Licencia MIT del proyecto
+├── README.md # README resumen del proyecto
+├── main.ipynb # Notebook final del proyecto
+├── presentacion.pdf # Presentación de apoyo para la exposición del proyecto
+└── requirements.txt # Librerías necesarias para ejecutar el notebook
 ```
 
 ---
@@ -119,15 +123,18 @@ The dataset comes from a public mental health survey in companies, distributed a
 ```
 ML_Mental_Health_in_the_Workplace/
 │
-├── src/                 # Directory containing auxiliary project folders
-│   ├── data_sample/     # Dataset with the survey responses
-│   ├── img/             # Images included in the presentation
-│   ├── models/          # Models created throughout the notebook
-│   ├── notebooks/       # Development and testing notebooks
-│   └── utils/           # Auxiliary libraries or utility modules
+├── src/ # Directory containing auxiliary project folders
+│    ├── data_sample/ # Dataset with the survey responses
+│    ├── img/ # Images included in the presentation
+│    ├── models/ # Models created throughout the notebook
+│    ├── notebooks/ # Development and testing notebooks
+│    └── utils/ # Auxiliary libraries or utility modules
 │
-├── main.ipynb           # Final notebook of the project
-├── presentacion.pdf     # Supporting slide deck for the project presentation
-└── README.md            # Project summary README
-
+├── .gitattributes # Repository attribute configuration
+├── .gitignore # Ignores unnecessary files and folders
+├── LICENSE # MIT License of the project
+├── README.md # Project summary README
+├── main.ipynb # Final notebook of the project
+├── presentacion.pdf # Supporting slide deck for the project presentation
+└── requirements.txt # Libraries required to run the notebook
 ````
